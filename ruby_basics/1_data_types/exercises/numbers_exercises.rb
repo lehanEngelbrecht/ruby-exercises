@@ -43,3 +43,4 @@ def odd?(number)
   # return true if the number is odd (hint: use integer's odd? method)
   number.odd?
 end
+
